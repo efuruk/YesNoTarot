@@ -44,16 +44,16 @@ public class Result extends AppCompatActivity {
             mTextView.setText("NO. 心を落ち着かせて、静かな環境で決断しましょう。");
             mImageView.setImageResource(R.drawable.fallsthree);
         } else if(value1 == 4) {
-            mTextView.setText("YES. 心を穏やかに保つと、本当の望みがわかるでしょう。");
+            mTextView.setText("YES. 心を穏やかに保つと、本当の望みがわかります。");
             mImageView.setImageResource(R.drawable.fallstwo);
         } else if(value1 == 5) {
-            mTextView.setText("YES. あなたが行動することで、周りも変わっていくでしょう。");
+            mTextView.setText("YES. あなたが行動することで、周りも変わります。");
             mImageView.setImageResource(R.drawable.flower);
         } else if(value1 == 6) {
-            mTextView.setText("NO. 冷静に起こったことをみると、次のステップが見えてきます。");
+            mTextView.setText("NO. 冷静に起きたことを省みましょう。");
             mImageView.setImageResource(R.drawable.pantherlight);
         } else if(value1 == 7) {
-            mTextView.setText("YES. 今決断すれば、ほしいものは必ず手に入ります。");
+            mTextView.setText("YES. 今決断すれば、ほしいものが手に入るでしょう。");
             mImageView.setImageResource(R.drawable.panthermeadowsone);
         } else if(value1 == 8) {
             mTextView.setText("YES. あなたが進もうとしている方向はあっています。");
@@ -62,10 +62,10 @@ public class Result extends AppCompatActivity {
             mTextView.setText("YESですが、目的を達成するには、忍耐力が必要です。");
             mImageView.setImageResource(R.drawable.panthermeadowstwo);
         } else if(value1 == 10) {
-            mTextView.setText("YES. ひとりで静かな時間をもてば、進む方向が見えてくるでしょう。");
+            mTextView.setText("YES. 静かな時間をもつと、進む方向が見えてきます。");
             mImageView.setImageResource(R.drawable.pantherstronglight);
         } else if(value1 == 11) {
-            mTextView.setText("絶対にYESです。あなたの運気も、あなたを後押ししています。");
+            mTextView.setText("絶対にYESです。運気も、あなたを後押ししています。");
             mImageView.setImageResource(R.drawable.shastalake);
         } else if(value1 == 12) {
             mTextView.setText("NO. あなたが想像しているよりも、大変そうです。");
@@ -74,7 +74,7 @@ public class Result extends AppCompatActivity {
             mTextView.setText("NO. 一度立ち止まって、休むことも大切です。");
             mImageView.setImageResource(R.drawable.shastalakeone);
         } else if(value1 == 14) {
-            mTextView.setText("NO. 体も心も健康を保てば、さらにいい方向が見えてくるでしょう。");
+            mTextView.setText("NO. 体も心も健康を保てば、いい方向が見えてきます。");
             mImageView.setImageResource(R.drawable.shastalakethree);
         } else if(value1 == 15) {
             mTextView.setText("NO. 迷っているようですが、自分をしっかりもって。");
@@ -92,13 +92,13 @@ public class Result extends AppCompatActivity {
             mTextView.setText("YES! 自信をもって、すぐに行動しましょう。");
             mImageView.setImageResource(R.drawable.shastatail);
         } else if(value1 == 20) {
-            mTextView.setText("NO. 方向を変えた方が、結果が良くなりそうです。");
+            mTextView.setText("NO. 思い切って方向を変えた方が、結果が良くなります。");
             mImageView.setImageResource(R.drawable.shastatree);
         } else if(value1 == 21) {
-            mTextView.setText("YES. もう一度、自信をもって、チャレンジしてみましょう。");
+            mTextView.setText("YES. もう一度、自信をもって、挑戦してみましょう。");
             mImageView.setImageResource(R.drawable.shastina);
         } else if(value1 == 22) {
-            mTextView.setText("NO. さらなる飛躍を目指すためにも、次に向かいましょう。");
+            mTextView.setText("NO. さらなる飛躍を目指し、新しい扉を開けてください。");
             mImageView.setImageResource(R.drawable.stream);
         }
 
